@@ -1,0 +1,16 @@
+# Compiled binaries
+*.exe
+*.exe~
+*.out
+*.bin
+
+# Build output directory
+tmp/
+
+# Go workspace file (keep go.work if you want multi-module, remove if not)
+# go.work
+# go.work.sum
+
+# OS generated files
+.DS_Store
+Thumbs.db
